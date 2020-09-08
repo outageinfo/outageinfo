@@ -1,0 +1,4 @@
+bs4==0.0.1
+selenium==3.141.0
+requests==2.24.0
+phonenumbers==8.12.9
